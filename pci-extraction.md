@@ -16,7 +16,6 @@ Approximate per sample cost:
 - 200 &micro;L Phenol: $0.05
 - 600 &micro;L Chloroform:Isoamyl Alcohol: $0.03
 - 2X 1.5 mL Microcentrifuge Tubes: $0.04
-- 600 &micro;L Chloroform:Isoamyl Alcohol: $0.03
 - 2.0 mL Microcentrifuge Tube: $0.02
 - 30 &micro;L 3 M Sodium acetate: $0.02
 - 0.25 mL Dow Corning&reg; high-vacuum silicone grease: $0.01
