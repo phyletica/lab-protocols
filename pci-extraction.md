@@ -12,8 +12,9 @@
 Approximate per sample cost:
 - 2X Aerosol Tips: $0.18
 - 1.7 mL ETOH: $0.10
-- Proteinase K: $0.08
-- 200 &micro;L Phenol:Chloroform:Isoamyl Alcohol: $0.05 or $0.11 (when purchased in 400 mL or 100 mL quantities respectively)
+- 5 &micro;L Proteinase K: $0.08
+- 200 &micro;L Phenol: $0.05
+- 600 &micro;L Chloroform:Isoamyl Alcohol: $0.03
 - 2X 1.5 mL Microcentrifuge Tubes: $0.04
 - 600 &micro;L Chloroform:Isoamyl Alcohol: $0.03
 - 2.0 mL Microcentrifuge Tube: $0.02
@@ -26,25 +27,25 @@ Total: < ~$0.55 per sample
 [See post by Alexander Klenov on DIY phase separating tubes](https://bitesizebio.com/18944/diy-phase-separating-gel-clean-and-cheap/)
 
 ### Safety
-http://web.utk.edu/~ehss/training/Phenol.pdf
-https://sp.ehs.cornell.edu/lab-research-safety/documents/phenol_first_aid_and_ppe.pdf
-The following is a cursory set of guidelines to begin familiarizing you with phenol safety but should by no means be considered comprehensive or adequate before beginning work with phenol. Phenol can kill you if simple precautions are not taken and understood so please do not take this warning lightly!
+The following is a cursory set of guidelines to begin familiarizing you with phenol safety but should by no means be considered comprehensive or adequate before beginning work with phenol. Phenol can lethal if simple precautions are not taken and understood so please do not take this warning lightly!
 - Use extreme caution when working with phenol which can quickly cause severe burns&mdash;possibly without any sensation of pain. It can be lethal due to poisoning at levels of skin exposure or inhalation that could potentially occur when using this protocol.
 - At the very least wear a lab coat and two pairs of nitrile gloves and remove immediately if phenol is believed to have made contact with them.
 - Perform the isolation steps involving phenol and chloroform within a fume hood at least six inches inside of the sash.
-- If contact with skin has occurred immediately remove any contaminated clothing including leather items. Put on goggles if not already on unless this would risk eye exposure. Unless hands have been exposed put on neoprene or butyl rubber gloves&mdash;use Viton&reg; if the solution also contains chloroform. Irrigate exposed area with PEG-300 or wipe with gauze soaked in PEG-300. Irrigate with water only after the application of PEG-300 or if no PEG-300 is available. Continue application of PEG-300 until there is no detectable odor of phenol.
+- If contact with skin has occurred immediately remove any contaminated clothing including leather items. Put on goggles if not already on unless this would risk eye exposure. Unless hands have been exposed put on neoprene or butyl rubber gloves&mdash;use Viton&reg; gloves if the solution also contains chloroform. Irrigate exposed area with PEG-300 or wipe with gauze soaked in PEG-300. Irrigate with water only after the application of PEG-300 or if no PEG-300 is available. Continue application of PEG-300 until there is no detectable odor of phenol.
 - If a spill is greater than 50 mL evacuate the laboratory, close the doors, and notify your fire department or environmental health and safety office.
-
+- Visit the following links for additional phenol safety information:
+http://web.utk.edu/~ehss/training/Phenol.pdf
+https://sp.ehs.cornell.edu/lab-research-safety/documents/phenol_first_aid_and_ppe.pdf
 
 ### Disposal
 All phenol and chloroform contaminated waste must be put into hazardous waste.
 
 ### Procedure
 #### 1) Phase Separating Tube
-1. Prepare one phase separating tube per sample by dispensing 0.1-0.2 mL of silicone grease from a 60 mL syringe into a 1.5 mL microcentrifuge tube.
+1. Prepare one phase separating tube per sample by dispensing 0.1-0.2 mL of silicone grease from a 60 mL syringe into a 2 mL microcentrifuge tube.
 
 #### 2) Lysis
-1. Prepare lysis master mix containing 5 &micro;L of 20 mg/mL proteinase K and 295 &micro;L proteinase K buffer solution per sample plus additional
+1. Prepare lysis master mix containing 5 &micro;L of 20 mg/mL proteinase K and 295 &micro;L proteinase K buffer solution per sample plus a little extra to account for measuring error.
 2. Add 300 &micro;L of lysis master mix to a 1.5 mL microcentrifuge tube containing up to 20 mg of sample tissue (approximately size of a grain of rice)
 3. Incubate samples at 55 &deg;C in shaker incubator set to 800 for 4 hours
 
