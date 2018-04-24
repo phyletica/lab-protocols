@@ -58,10 +58,10 @@ All phenol and chloroform contaminated waste must be put into hazardous waste.
 7. Add 400 &micro;L of Chloroform:Isoamyl Alcohol to the aqueous layer in the phase separating tube
 8. Mix samples by inverting tubes and shaking manually for 1 minute. Do not mix so vigorously as to disrupt the silicone grease layer dividing the aqueous and organic layers
 9. Centrifuge at 16,100 RCF for 5 minutes
-10. Transfer 300 &micro;L of the top aqueous layer to a new 1.5 mL micro centrifuge tube. Avoid pipetting any of the silicon grease separating the phases
 
 #### 4) Precipitation
-1. Add 30 &micro;L of 3 M sodium acetate, pH 5.2 to isolation product that was transferred to new tube
+1. Add 30 &micro;L of 3 M sodium acetate, pH 5.2 to a new 1.5 mL micro centrifuge tube
+2. Transfer 300 &micro;L of the top aqueous layer to the tube with sodium acetate. Avoid pipetting any of the silicon grease separating the phases
 2. Add 1 mL of 100% ethanol
 3. Mix samples by inverting tubes and shaking manually for ~5 seconds
 4. Let samples sit for 5 minutes
