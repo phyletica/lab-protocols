@@ -11,10 +11,12 @@
 A large volume of ladder solution can be prepared ahead of time so that this step is not always necessary
 1. Prepare a solution of 1 part DNA ladder, 1 part loading dye, and 4 parts pure water.
 
+
 #### 2) Prepare 1X SB Buffer
 A large volume of 1X SB buffer can be prepared ahead of time so that this step is not always necessary.
 
 1. Dilute 20X SB Buffer at a ratio of 1:19 SB buffer to deionized water
+
 
 #### 3) Prepare 1% Agarose Gel
 1. In a flask mix 1 part agarose by weight with 100 parts 1X SB Buffer by volume in mL. For example 1 gram of agarose would go into 100 mL 1X SB Buffer.

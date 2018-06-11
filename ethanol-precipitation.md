@@ -17,4 +17,4 @@ the pellet.
 - 70% ETOH
 
 
-<!-- Comments: time and speed are the biggest factors for DNA recovery. Don't worry about temperature despite what many protocols call for. -->
+<!-- Comments: time and centrifuge speed are the biggest factors for DNA recovery. Don't worry so much about temperature despite what many protocols recommend. -->

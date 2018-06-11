@@ -4,6 +4,7 @@ Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University
 - [3RAD Adapters](adapter-seq.md)
 - [EDTA Solution](edta.md)
 - [Ethanol Precipitation Protocol](ethanol-precipitation.md)
+- [Gel Electrophoresis Protocol](gel-electrophoresis.md)
 - [Phenol Chloroform Extraction Protocol](pci-extraction.md)
 - [Proteinase K Buffer Solution](pro-k.md)
 - [Sodium Borate Buffer Solution](sb.md)

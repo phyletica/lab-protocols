@@ -19,6 +19,7 @@ In 15 &micro;L:
 3. Add 6 &micro;L master mix to each sample.
 4. Add 2 &micro;L of 2.5 &micro;M each adapter.
 5. Incubate samples at:
+    - No heated lid
     - From Hoffberg 2016
     - 37 &deg;C for 1 hour
     - 14 &deg;C for &infin;
