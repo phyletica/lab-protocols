@@ -3,6 +3,11 @@
 Note: ligation must be performed immediately following restriction digest
 
 #### Restriction Digest
+##### Reagents
+- 20,000 &cup;/mL New England BioLabs Restriction Enzymes
+- 10X New England BioLabs CutSmart Buffer
+- 2.5 &micro;M Read 1 and Read 2 3RAD Adapters
+
 ##### Final Concentrations
 In 15 &micro;L:
 - 20-100 ng Sample DNA
@@ -24,16 +29,21 @@ In 15 &micro;L:
     - 37 &deg;C for 1 hour
     - 14 &deg;C for &infin;
 
-| Enzyme Digestion Master Mix   | 1X            | 106X           |
+| Enzyme Digestion Master Mix   | 1X            | 116X           |
 | ----------------------------- | ------------- | -------------- |
-| 10X CutSmart Buffer           | 1.5 &micro;L  | 159 &micro;L   |
-| H<sub>2</sub>O                | 1.5 &micro;L  | 159 &micro;L   |
-| Enzyme 1 10 &#8746;/&micro;L | 1 &micro;L    | 106 &micro;L   |
-| Enzyme 2 10 &#8746;/&micro;L | 1 &micro;L    | 106 &micro;L   |
-| Enzyme 3 10 &#8746;/&micro;L | 1 &micro;L    | 106 &micro;L   |
-| Total volume                  | 6 &micro;L    | 636 &micro;L   |
+| 10X CutSmart Buffer           | 1.5 &micro;L  | 174 &micro;L   |
+| H<sub>2</sub>O                | 3.0 &micro;L  | 348 &micro;L   |
+| Enzyme 1 20 &#8746;/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
+| Enzyme 2 20 &#8746;/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
+| Enzyme 3 20 &#8746;/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
+| Total volume                  | 6 &micro;L    | 696 &micro;L   |
 
 #### Ligation
+##### Reagents
+- 400,000 &cup;/mL New England BioLabs T4 DNA Ligase
+- 10X New England Biolabs Ligase Buffer
+- Promega 10 mM rATP
+
 ##### Final Concentrations
 In 20 &micro;L:
 - 100 &#8746; of T4 DNA ligase
@@ -56,7 +66,7 @@ In 20 &micro;L:
 | H<sub>2</sub>O               | 2.75 &micro;L | 291.5 &micro;L |
 | 10X Ligase Buffer            | 0.5 &micro;L  | 53 &micro;L    |
 | 10 mM rATP                   | 1.5 &micro;L  | 159 &micro;L   |
-| Ligase 400 &#8746;/&micro;L | 0.25 &micro;L | 26.5 &micro;L  |
+| Ligase 400,000 &cup;/mL      | 0.25 &micro;L | 26.5 &micro;L  |
 | Total volume                 | 5 &micro;L    | 530 &micro;L   |
 
 ### 2. Bead Cleanup
@@ -73,6 +83,10 @@ In 20 &micro;L:
 7. Re-suspend in initial volume of TLE Buffer
 
 ### 3. One Cycle PCR With iTru5-8N Primer
+##### Reagents
+- Kapa HiFI PCR Kit
+- 5 &micro;M iTru5 Primer
+
 ##### Final Concentrations
 In 50 &micro;L:
 - 5 &micro;L of pooled DNA samples
@@ -117,6 +131,11 @@ In 50 &micro;L:
 7. Re-suspend in 35 &micro;L TLE Buffer
 
 ### 5. Two Primer Amplification With P5 & iTru7 Primers
+##### Reagents
+- Kapa HiFI PCR Kit
+- 5 &micro;M iTru7 Primer
+- 5 &micro;M P5 Primer
+
 ##### Final Concentrations
 In 50 &micro;L:
 - 5 &micro;L of pooled DNA samples
@@ -168,6 +187,11 @@ In 50 &micro;L:
 1. Add 10 &micro;L internal size standard to 30 &micro;L of sample
 
 ### 8. Final Amplification with P5 and P7 Primers
+##### Reagents
+- Kapa HiFI PCR Kit
+- 5 &micro;M P5 Primer
+- 5 &micro;M P7 Primer
+
 ##### Final Concentrations
 In 50 &micro;L:
 - 5 &micro;L of pooled DNA samples
@@ -212,7 +236,7 @@ In 50 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L TLE Buffer
+7. Re-suspend in 35 &micro;L **10 mM Tris, pH 8** Buffer
 
 ### 10. Sample Submission
 Sample Submission to UGA sequencing facility

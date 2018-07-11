@@ -44,9 +44,9 @@ All phenol and chloroform contaminated waste must be put into hazardous waste.
 1. Prepare one phase separating tube per sample by dispensing 0.1-0.2 mL of silicone grease from a 60 mL syringe into a 2 mL microcentrifuge tube.
 
 #### 2) Lysis
-1. Prepare lysis master mix containing 5 &micro;L of 20 mg/mL proteinase K and 295 &micro;L proteinase K buffer solution per sample plus a little extra to account for measuring error.
+1. Prepare lysis master mix containing 5 &micro;L of 20 mg/mL proteinase K and 295 &micro;L proteinase K buffer solution per sample plus a little extra to account for pipetting error.
 2. Add 300 &micro;L of lysis master mix to a 1.5 mL microcentrifuge tube containing up to 20 mg of sample tissue (approximately size of a grain of rice)
-3. Incubate samples at 55 &deg;C in shaker incubator set to 800 for 4 hours
+3. Incubate samples at 55 &deg;C in shaker incubator set to 800 for 4-6 hours
 
 #### 3) Isolation
 1. Centrifuge phase separating tubes at 16,100 RCF for 1 minute
@@ -58,17 +58,17 @@ All phenol and chloroform contaminated waste must be put into hazardous waste.
 7. Add 400 &micro;L of Chloroform:Isoamyl Alcohol to the aqueous layer in the phase separating tube
 8. Mix samples by inverting tubes and shaking manually for 1 minute. Do not mix so vigorously as to disrupt the silicone grease layer dividing the aqueous and organic layers
 9. Centrifuge at 16,100 RCF for 5 minutes
+10. Add 30 &micro;L of 3 M sodium acetate, pH 5.2 to a new 1.5 mL micro centrifuge tube
+11. Transfer 300 &micro;L of the top aqueous layer to the tube with sodium acetate. Avoid pipetting any of the silicon grease separating the phases
 
 #### 4) Precipitation
-1. Add 30 &micro;L of 3 M sodium acetate, pH 5.2 to a new 1.5 mL micro centrifuge tube
-2. Transfer 300 &micro;L of the top aqueous layer to the tube with sodium acetate. Avoid pipetting any of the silicon grease separating the phases
-2. Add 1 mL of 100% ethanol
-3. Mix samples by inverting tubes and shaking manually for ~5 seconds
-4. Let samples sit for 5 minutes
-5. Centrifuge at 16,100 RCF for 30 minutes
-6. Decant supernatant
-7. Add 1 mL of 70% ethanol
-8. Centrifuge at 16,100 RCF for 10 minutes
-9. Decant supernatant
-10. Air dry sample until most ethanol has evaporated but avoid allowing DNA pellet to dry completely
-11. Suspend sample in 100 &micro;L TLE buffer solution
+1. Add 1 mL of 100% ethanol
+2. Mix samples by inverting tubes and shaking manually for ~5 seconds
+3. Let samples sit for 5 minutes
+4. Centrifuge at 16,100 RCF for 30 minutes
+5. Decant supernatant
+6. Add 1 mL of 70% ethanol
+7. Centrifuge at 16,100 RCF for 10 minutes
+8. Decant supernatant
+9. Air dry sample until most ethanol has evaporated but avoid allowing DNA pellet to dry completely
+10. Suspend sample in 100 &micro;L TLE buffer solution
