@@ -9,6 +9,6 @@
 
 ### Procedure
 Per 100 mL
-1. Add 1 mL 1M Tric-HCl solution
+1. Add 1 mL 1M Tris-HCl solution
 2. Add 20 &micro;L 0.5 M EDTA solution
 3. Bring final volume to 100 mL with 98.8 mL of pure nuclease free water

@@ -10,7 +10,7 @@
 
 ### Cost
 Approximate per sample cost:
-- 2X Aerosol Tips: $0.18
+- 2X 1000 &uL; Aerosol Tips: $0.18
 - 1.7 mL ETOH: $0.10
 - 5 &micro;L Proteinase K: $0.08
 - 200 &micro;L Phenol: $0.05
@@ -58,17 +58,18 @@ All phenol and chloroform contaminated waste must be put into hazardous waste.
 7. Add 400 &micro;L of Chloroform:Isoamyl Alcohol to the aqueous layer in the phase separating tube
 8. Mix samples by inverting tubes and shaking manually for 1 minute. Do not mix so vigorously as to disrupt the silicone grease layer dividing the aqueous and organic layers
 9. Centrifuge at 16,100 RCF for 5 minutes
-10. Add 30 &micro;L of 3 M sodium acetate, pH 5.2 to a new 1.5 mL micro centrifuge tube
-11. Transfer 300 &micro;L of the top aqueous layer to the tube with sodium acetate. Avoid pipetting any of the silicon grease separating the phases
+
 
 #### 4) Precipitation
-1. Add 1 mL of 100% ethanol
-2. Mix samples by inverting tubes and shaking manually for ~5 seconds
-3. Let samples sit for 5 minutes
-4. Centrifuge at 16,100 RCF for 30 minutes
-5. Decant supernatant
-6. Add 1 mL of 70% ethanol
-7. Centrifuge at 16,100 RCF for 10 minutes
-8. Decant supernatant
-9. Air dry sample until most ethanol has evaporated but avoid allowing DNA pellet to dry completely
-10. Suspend sample in 100 &micro;L TLE buffer solution
+1. Add 30 &micro;L of 3 M sodium acetate to a new 1.5 mL micro centrifuge tube
+2. Transfer 300 &micro;L of the top aqueous layer to the tube with sodium acetate. Avoid pipetting any of the silicon grease separating the phases
+3. Add 1 mL of 100% ethanol
+4. Incubate sample at room temperature for at least 15 minutes
+5. Centrifuge at 16,100 RCF for 30 minutes
+6. Decant supernatant
+7. Add 1 mL of 70% ethanol
+8. Centrifuge at 16,100 rcf for 15 minutes
+9. Decant supernatant
+10. Briefly spin tube to collect residual ethanol
+11. Pipette and discard remaining ethanol
+12. Dissolve pellet in TLE buffer solution
