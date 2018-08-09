@@ -4,7 +4,7 @@ Note: ligation must be performed immediately following restriction digest
 
 #### Restriction Digest
 ##### Reagents
-- 20,000 &cup;/mL New England BioLabs Restriction Enzymes
+- 20,000 &#8746;/mL New England BioLabs Restriction Enzymes
 - 10X New England BioLabs CutSmart Buffer
 - 2.5 &micro;M Read 1 and Read 2 3RAD Adapters
 
@@ -12,7 +12,7 @@ Note: ligation must be performed immediately following restriction digest
 In 15 &micro;L:
 - 20-100 ng Sample DNA
 - 1X Cutsmart Buffer
-- 10 &cup; of read 1 restriction enzyme
+- 10 &#8746; of read 1 restriction enzyme
 - 10 &#8746; of read 2 restriction enzyme
 - 10 &#8746; of adapter dimer restriction enzyme
 - 0.33 &micro;M read 1 adapter
@@ -25,9 +25,7 @@ In 15 &micro;L:
 4. Add 2 &micro;L of 2.5 &micro;M each adapter.
 5. Incubate samples at:
     - No heated lid
-    - From Hoffberg 2016
     - 37 &deg;C for 1 hour
-    - 14 &deg;C for &infin;
 
 | Enzyme Digestion Master Mix   | 1X            | 116X           |
 | ----------------------------- | ------------- | -------------- |
@@ -40,7 +38,7 @@ In 15 &micro;L:
 
 #### Ligation
 ##### Reagents
-- 400,000 &cup;/mL New England BioLabs T4 DNA Ligase
+- 400,000 &#8746;/mL New England BioLabs T4 DNA Ligase
 - 10X New England Biolabs Ligase Buffer
 - Promega 10 mM rATP
 
@@ -54,12 +52,11 @@ In 20 &micro;L:
 1. Prepare ligation master mix.
 2. Add 5 &micro;L ligation master mix to each sample.
 3. Incubate samples at:
-    - From Hoffberg 2016
+    - No heated lid?????
     - 2 cycles of:
         - 22 &deg;C for 20:00
         - 37 &deg;C for 10:00
     - 80 &deg;C for 20:00
-    - 14 &deg;C for &infin;
 
 | Ligation Master Mix          | 1X            | 106X           |
 | ---------------------------- | ------------- | -------------- |
@@ -100,13 +97,10 @@ In 50 &micro;L:
 2. Add 45 &micro;L master mix to six 0.2 mL PCR tubes
 3. Add 5 &micro;L pooled DNA to each of the six PCR tubes
 4. Incubate samples at:
-    - From Hoffberg 2016
     - 95 &deg;C for 2:00
     - 98 &deg;C for 0:20
     - 61 &deg;C for 0:15
-    - 72 &deg;C for 0:30
     - 72 &deg;C for 5:00
-    - 14 &deg;C for &infin;
 
 | PCR Master Mix             | 1X            | 6.5X            |
 | -------------------------- | ------------- | --------------- |
@@ -150,14 +144,12 @@ In 50 &micro;L:
 2. Add 45 &micro;L master mix to six 0.2 mL PCR tubes
 3. Add 5 &micro;L pooled DNA to each of the six PCR tubes
 4. Incubate samples at:
-    - From Hoffberg 2016
     - 95 &deg;C for 2:00
     - 6 cycles of:
         - 98 &deg;C for 0:20
         - 61 &deg;C for 0:15
         - 72 &deg;C for 0:30
     - 72 &deg;C 5:00
-    - 14 &deg;C for &infin;
 
 | PCR Master Mix             | 1X            | 6.5X            |
 | -------------------------- | ------------- | --------------- |
@@ -206,14 +198,12 @@ In 50 &micro;L:
 2. Add 45 &micro;L master mix to six 0.2 mL PCR tubes
 3. Add 5 &micro;L pooled DNA to each of the six PCR tubes
 4. Incubate samples at:
-    - From Hoffberg 2016
     - 95 &deg;C for 2:00
-    - 18 cycles of:
+    - 12 cycles of:
         - 98 &deg;C for 0:20
         - 61 &deg;C for 0:15
         - 72 &deg;C for 0:45
     - 72 &deg;C 5:00
-    - 14 &deg;C for &infin;
 
 | PCR Master Mix             | 1X            | 6.5X            |
 | -------------------------- | ------------- | --------------- |
