@@ -4,7 +4,7 @@ Note: ligation must be performed immediately following restriction digest
 
 #### Restriction Digest
 ##### Reagents
-- 20,000 &#8746;/mL New England BioLabs Restriction Enzymes
+- 20,000 &bigcap;/mL New England BioLabs Restriction Enzymes
 - 10X New England BioLabs CutSmart Buffer
 - 2.5 &micro;M Read 1 and Read 2 3RAD Adapters
 
@@ -52,7 +52,7 @@ In 20 &micro;L:
 1. Prepare ligation master mix.
 2. Add 5 &micro;L ligation master mix to each sample.
 3. Incubate samples at:
-    - No heated lid?????
+    - No heated lid
     - 2 cycles of:
         - 22 &deg;C for 20:00
         - 37 &deg;C for 10:00
@@ -77,7 +77,8 @@ In 20 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in initial volume of TLE Buffer
+7. Re-suspend in initial volume of [TLE Buffer Solution](tle.md)
+- Note: Maybe suspend this in smaller volume?
 
 ### 3. One Cycle PCR With iTru5-8N Primer
 ##### Reagents
@@ -122,7 +123,7 @@ In 50 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L TLE Buffer
+7. Re-suspend in 35 &micro;L [TLE Buffer Solution](tle.md)
 
 ### 5. Two Primer Amplification With P5 & iTru7 Primers
 ##### Reagents
@@ -172,11 +173,12 @@ In 50 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L TLE Buffer
+7. Re-suspend in 35 &micro;L [TLE Buffer Solution](tle.md)
 
 ### 7. Size Selection
 ##### Procedure
-1. Add 10 &micro;L internal size standard to 30 &micro;L of sample
+Size select DNA with BluePippin
+<!-- 1. Add 10 &micro;L internal size standard to 30 &micro;L of sample -->
 
 ### 8. Final Amplification with P5 and P7 Primers
 ##### Reagents
@@ -226,13 +228,13 @@ In 50 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L **10 mM Tris, pH 8** Buffer
+7. Re-suspend in 35 &micro;L 10mM [Tris-HCl Buffer Solution](tris-hcl.md)
 
-### 10. Sample Submission
+<!-- ### 10. Sample Submission
 Sample Submission to UGA sequencing facility
 
 Provide ≥20 µl of product at a 10 nM concentration in 10 mM Tris, pH 8
 
 [nM DNA] = DNA concentration (ng/&micro;L) * 1e6 (&micro;L/L) / (Sample fragment size in bp * 656.4 (g/mole))
 
-Should be ~4ng/uL
+Should be ~4ng/uL -->
