@@ -4,7 +4,7 @@ Note: ligation must be performed immediately following restriction digest
 
 #### Restriction Digest
 ##### Reagents
-- 20,000 &#8746;;/mL New England BioLabs Restriction Enzymes
+- 20,000 &cup;/mL New England BioLabs Restriction Enzymes
 - 10X New England BioLabs CutSmart Buffer
 - 2.5 &micro;M Read 1 and Read 2 3RAD Adapters
 
