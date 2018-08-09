@@ -12,9 +12,9 @@ Note: ligation must be performed immediately following restriction digest
 In 15 &micro;L:
 - 20-100 ng Sample DNA
 - 1X Cutsmart Buffer
-- 10 U; of read 1 restriction enzyme
-- 10 U; of read 2 restriction enzyme
-- 10 U; of adapter dimer restriction enzyme
+- 10 U of read 1 restriction enzyme
+- 10 U of read 2 restriction enzyme
+- 10 U of adapter dimer restriction enzyme
 - 0.33 &micro;M read 1 adapter
 - 0.33 &micro;M read 2 adapter
 
@@ -31,20 +31,20 @@ In 15 &micro;L:
 | ----------------------------- | ------------- | -------------- |
 | 10X CutSmart Buffer           | 1.5 &micro;L  | 174 &micro;L   |
 | H<sub>2</sub>O                | 3.0 &micro;L  | 348 &micro;L   |
-| Enzyme 1 20 U;/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
-| Enzyme 2 20 U;/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
-| Enzyme 3 20 U;/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
+| Enzyme 1 20 U/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
+| Enzyme 2 20 U/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
+| Enzyme 3 20 U/&micro;L  | 0.5 &micro;L  | 58 &micro;L    |
 | Total volume                  | 6 &micro;L    | 696 &micro;L   |
 
 #### Ligation
 ##### Reagents
-- 400,000 U;/mL New England BioLabs T4 DNA Ligase
+- 400,000 U/mL New England BioLabs T4 DNA Ligase
 - 10X New England Biolabs Ligase Buffer
 - Promega 10 mM rATP
 
 ##### Final Concentrations
 In 20 &micro;L:
-- 100 U; of T4 DNA ligase
+- 100 U of T4 DNA ligase
 - 0.25X ligase buffer
 - 0.75 mM rATP
 
@@ -91,7 +91,7 @@ In 50 &micro;L:
 - 1X KAPA HiFi Fidelity Buffer
 - 0.3 &micro;M iTru5 Primer
 - 0.3 mM each dNTP
-- 1 U; of KAPA HiFi Hotstart DNA Polymerase
+- 1 U of KAPA HiFi Hotstart DNA Polymerase
 
 ##### Procedure
 1. Prepare PCR master mix.
@@ -138,7 +138,7 @@ In 50 &micro;L:
 - 0.3 &micro;M iTru7 Primer
 - 0.3 &micro;M P5 Primer
 - 0.3 mM each dNTP
-- 1 U; of KAPA HiFi Hotstart DNA Polymerase
+- 1 U of KAPA HiFi Hotstart DNA Polymerase
 
 ##### Procedure
 1. Prepare PCR master mix.
@@ -193,7 +193,7 @@ In 50 &micro;L:
 - 0.3 &micro;M P5 Primer
 - 0.3 &micro;M P7 Primer
 - 0.3 mM each dNTP
-- 1 U; of KAPA HiFi Hotstart DNA Polymerase
+- 1 U of KAPA HiFi Hotstart DNA Polymerase
 
 ##### Procedure
 1. Prepare PCR master mix.
