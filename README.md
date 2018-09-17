@@ -1,5 +1,6 @@
 Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University.
 
+- [KAPA HiFi PCR](kapa-pcr.md)
 - [3RAD Protocol](3RAD-protocol.md)
 - [3RAD Adapters](adapter-seq.md)
 - [EDTA Solution](edta.md)
