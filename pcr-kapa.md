@@ -1,5 +1,7 @@
 # KAPA HiFi PCR protocol
 
+Protocol for the amplification of DNA fragments > 1500 bp in size or for preparation of genomic libraries.
+
 1. Get Primers, dNTPs, and KAPA HiFi Fidelity Buffer (5X) from freezer and thaw.
 
 2. Label 8-well PCR tube strips with sample IDs, date, project name, and locus name.
@@ -25,8 +27,11 @@
 
 8. Using a **different aerosol pipette tip** for each DNA sample, pipette **1 &micro;L** of each DNA sample into labeled PCR tube strips.
 
-9. Start protocol on thermocycler, wait for block temperature to pass **70&deg;C**, then move the PCR tube strips onto the thermocycler block and close and tighten lid.
 
-10. Label a 96 well plate and lid with the date, project name, and locus name and leave next to thermocylcer.
+9. Place lids on PCR tube strips, flick tubes to mix, microcentrifuge briefly to collect solution in bottom of tube and return to ice block.
 
-11. When thermocylcer protocol is complete place PCR tube strips onto labelled 96 well plate and move to 4&deg;C refrigerator.
+10. Start protocol on thermocycler, wait for block temperature to pass **70&deg;C**, then move the PCR tube strips onto the thermocycler block and close and tighten lid.
+
+11. Label a 96 well plate and lid with the date, project name, and locus name and leave next to thermocylcer.
+
+12. When thermocylcer protocol is complete place PCR tube strips onto labelled 96 well plate and move to 4&deg;C refrigerator.
