@@ -4,9 +4,9 @@
 - Chloroform:Isoamyl Alcohol (24:1, v/v)
 - Dow Corning&reg; high-vacuum silicone grease
 - Proteinase K 20mg/mL (CAS 39450-01-6)
-- [Proteinase K Buffer Solution](pro-k.md)
+- [Proteinase K Buffer Solution](https://phyletica.github.io/lab-protocols/pro-k.html)
 - 3 M Sodium acetate, pH 5.2 (CAS 127-09-3)
-- [TLE Buffer Solution](tle.md)
+- [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
 
 ### Cost
 Approximate per sample cost:

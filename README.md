@@ -1,27 +1,27 @@
 Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University.
 
 #### Extractions
-- [Phenol Chloroform Extraction Protocol](https://kerrycobb.github.io/lab-protocols/extraction-pci.html)
-- [SPRI Bead Extraction Protocol](https://kerrycobb.github.io/lab-protocols/extraction-spri.html)
+- [Phenol Chloroform Extraction Protocol](https://phyletica.github.io/lab-protocols/extraction-pci.html)
+- [SPRI Bead Extraction Protocol](https://phyletica.github.io/lab-protocols/extraction-spri.html)
 
 #### PCR
-- [Promega GoTaq PCR](https://kerrycobb.github.io/lab-protocols/pcr-gotaq.html)
-- [KAPA HiFi PCR](https://kerrycobb.github.io/lab-protocols/pcr-kapa.html)
+- [Promega GoTaq PCR](https://phyletica.github.io/lab-protocols/pcr-gotaq.html)
+- [KAPA HiFi PCR](https://phyletica.github.io/lab-protocols/pcr-kapa.html)
 
 #### RADSeq
-- [3RAD Protocol](https://kerrycobb.github.io/lab-protocols/3RAD-protocol.html)
-- [3RAD Adapters](https://kerrycobb.github.io/lab-protocols/adapter-seq.html)
+- [3RAD Protocol](https://phyletica.github.io/lab-protocols/3RAD-protocol.html)
+- [3RAD Adapters](https://phyletica.github.io/lab-protocols/adapter-seq.html)
 
 #### Other
-- [Gel Electrophoresis Protocol](https://kerrycobb.github.io/lab-protocols/gel-electrophoresis.html)
-- [Ethanol Precipitation Protocol](https://kerrycobb.github.io/lab-protocols/ethanol-precipitation.html)
+- [Gel Electrophoresis Protocol](https://phyletica.github.io/lab-protocols/gel-electrophoresis.html)
+- [Ethanol Precipitation Protocol](https://phyletica.github.io/lab-protocols/ethanol-precipitation.html)
 
 #### Solutions
-- [EDTA Solution](https://kerrycobb.github.io/lab-protocols/edta.html)
-- [Proteinase K Buffer Solution](https://kerrycobb.github.io/lab-protocols/pro-k.html)
-- [Sodium Borate Buffer Solution](https://kerrycobb.github.io/lab-protocols/sb.html)
-- [SDS Solution](https://kerrycobb.github.io/lab-protocols/sds.html)
-- [TLE Buffer Solution](https://kerrycobb.github.io/lab-protocols/tle.html)
-- [Tris-HCl Buffer Solution](https://kerrycobb.github.io/lab-protocols/tris-hcl.html)
+- [EDTA Solution](https://phyletica.github.io/lab-protocols/edta.html)
+- [Proteinase K Buffer Solution](https://phyletica.github.io/lab-protocols/pro-k.html)
+- [Sodium Borate Buffer Solution](https://phyletica.github.io/lab-protocols/sb.html)
+- [SDS Solution](https://phyletica.github.io/lab-protocols/sds.html)
+- [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
+- [Tris-HCl Buffer Solution](https://phyletica.github.io/lab-protocols/tris-hcl.html)
 
-[View on Github](https://github.com/kerrycobb/lab-protocols)
+[View on Github](https://github.com/phyletica/lab-protocols)

@@ -1,9 +1,9 @@
 # Proteinase K Buffer Solution
 
 ### Reagents
-- [1 M Tris-HCl Buffer Solution, pH 8.0](tris-hcl.md)
-- [0.5 M EDTA Solution, pH 8.0](edta.md)
-- [10% (m/v) SDS Solution](sds.md)
+- [1 M Tris-HCl Buffer Solution, pH 8.0](https://phyletica.github.io/lab-protocols/tris-hcl.html)
+- [0.5 M EDTA Solution, pH 8.0](https://phyletica.github.io/lab-protocols/edta.html)
+- [10% (m/v) SDS Solution](https://phyletica.github.io/lab-protocols/sds.html)
 
 ### Final concentrations
 - 30 mM Tris-HCl

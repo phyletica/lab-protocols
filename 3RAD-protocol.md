@@ -77,7 +77,7 @@ In 20 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in initial volume of [TLE Buffer Solution](tle.md)
+7. Re-suspend in initial volume of [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
 - Note: Maybe suspend this in smaller volume?
 
 ### 3. One Cycle PCR With iTru5-8N Primer
@@ -123,7 +123,7 @@ In 50 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L [TLE Buffer Solution](tle.md)
+7. Re-suspend in 35 &micro;L [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
 
 ### 5. Two Primer Amplification With P5 & iTru7 Primers
 ##### Reagents
@@ -173,7 +173,7 @@ In 50 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L [TLE Buffer Solution](tle.md)
+7. Re-suspend in 35 &micro;L [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
 
 ### 7. Size Selection
 ##### Procedure
@@ -228,7 +228,7 @@ In 50 &micro;L:
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L 10mM [Tris-HCl Buffer Solution](tris-hcl.md)
+7. Re-suspend in 35 &micro;L 10mM [Tris-HCl Buffer Solution](https://phyletica.github.io/lab-protocols/tris-hcl.html)
 
 <!-- ### 10. Sample Submission
 Sample Submission to UGA sequencing facility

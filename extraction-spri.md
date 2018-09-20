@@ -1,8 +1,8 @@
 # Phenol Chloroform DNA Extraction Protocol
 ### Reagents
 - Proteinase K 20mg/mL (CAS 39450-01-6)
-- [Proteinase K Buffer Solution](pro-k.md)
-- [TLE Buffer Solution](tle.md)
+- [Proteinase K Buffer Solution](https://phyletica.github.io/lab-protocols/pro-k.html)
+- [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
 
 
 #### 1) Lysis

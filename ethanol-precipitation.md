@@ -4,7 +4,7 @@
 - 3M Sodium Acetate, pH 5.2 (CAS 127-09-3)
 - Ethanol, 200 Proof (CAS 64-17-5)
 - Ethanol, 70%
-- 10 mM Tris-HCl Buffer Solution or [TLE Buffer Solution](tle.md)
+- 10 mM Tris-HCl Buffer Solution or [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
 
 ### Procedure
 1. Add 1/10 volume of 3 M sodium acetate relative to sample volume

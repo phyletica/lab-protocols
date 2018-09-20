@@ -1,7 +1,7 @@
 # TLE Buffer Solution
 ### Reagents
-- [1M Tris-HCl Buffer Solution, pH 8.0](tris-hcl.md)
-- [0.5M EDTA Solution, pH 8.0](edta.md)
+- [1M Tris-HCl Buffer Solution, pH 8.0](https://phyletica.github.io/lab-protocols/tris-hcl.html)
+- [0.5M EDTA Solution, pH 8.0](https://phyletica.github.io/lab-protocols/edta.html)
 
 ### Final concentraions
 - 10 mM Tris-HCl
