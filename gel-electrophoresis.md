@@ -4,14 +4,14 @@
 ### DNA Ladder Solution
 ##### Reagents
 - 6X DNA Loading Dye
-- [TLE Buffer Solution](tle.md)
+- [TLE Buffer Solution](https://kerrycobb.github.io/lab-protocols/tle.html)
 - 0.5 &micro;g/&micro;L DNA Ladder
 ##### Procedure
 Prepare DNA ladder working stock containing a 4:1:1 ratio of TLE Buffer Solution, DNA Loading Dye, and DNA Ladder
 
 
 ### 1X SB Buffer Solution
-Dilute one part [20X SB Buffer Solution](sb.md) in 19 parts deionized water.
+Dilute one part [20X SB Buffer Solution](https://kerrycobb.github.io/lab-protocols/sb.html) in 19 parts deionized water.
 
 
 ### Agarose Gel Casting
