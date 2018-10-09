@@ -13,7 +13,7 @@ Protocol for amplification of fragments < 1500 bp in size
 | Component                           | Volume per sample |
 |-------------------------------------|-------------------|
 | Nucelease Free Water                | 31.75 &micro;L    |
-| 5X Fidelity Buffer                  | 10.0 &micro;L     |
+| 5X Green GoTaq Flexi Buffer         | 10.0 &micro;L     |
 | MgCl<sub>2</sub>                    | 4.0 &micro;L      |
 | 10 mM dNTP Mix                      | 1.0 &micro;L      |
 | 10 &micro;L Primer 1                | 1.0 &micro;L      |
