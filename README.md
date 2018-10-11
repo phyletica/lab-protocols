@@ -1,4 +1,5 @@
 Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University.
+[Fork on Github](https://github.com/phyletica/lab-protocols)
 
 #### Extractions
 - [Phenol Chloroform Extraction Protocol](https://phyletica.github.io/lab-protocols/extraction-pci.html)
@@ -24,4 +25,4 @@ Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University
 - [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
 - [Tris-HCl Buffer Solution](https://phyletica.github.io/lab-protocols/tris-hcl.html)
 
-[View on Github](https://github.com/phyletica/lab-protocols)
+
