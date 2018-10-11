@@ -1,6 +1,4 @@
-Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University.
-
-[Fork on Github](https://github.com/phyletica/lab-protocols)
+Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University. [View Github Repository](https://github.com/phyletica/lab-protocols)
 
 #### Extractions
 - [Phenol Chloroform Extraction Protocol](https://phyletica.github.io/lab-protocols/extraction-pci.html)
