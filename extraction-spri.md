@@ -6,7 +6,7 @@
 - [Speedbeads](https://baddna.uga.edu/Protocols/Speedbead_Protocol_June2016.docx)
 - 70% ETOH
 
-
+### Procedure
 #### 1) Lysis
 1. Prepare lysis master mix containing 5 &micro;L of 20 mg/mL proteinase K and 295 &micro;L proteinase K buffer solution per sample plus a little extra to account for pipetting error.
 2. Add 300 &micro;L of lysis master mix to a 1.5 mL microcentrifuge tube containing up to 20 mg of sample tissue (approximately the size of a grain of rice).
