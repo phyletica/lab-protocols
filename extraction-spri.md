@@ -15,16 +15,16 @@
 #### 2) Isolation
 1. Allow bead solution to warm room temperature and mix by gently inverting the solution. Mix until beads are no longer sticking to the bottom of the tube. Before using beads, allow any bubbles that have been introduced by mixing to escape from the solution.
 2. Add 300 uL of bead solution to tube containing lysis product.
-3. Mix sample by flicking tube
+3. Mix sample by flicking tube.
 4. Briefly centrifuge to collect sample in bottom of tube.
 5. Let sample sit for 5 minutes.
 6. Place sample on magnet for 5 minutes or until all beads have collected on magnet and solution is clear.
 7. Remove and dispose of solution without disturbing the beads on the magnet.
-8. Add 1 mL of 70% ETOH
-9. Let sit for 1 minute
+8. Add 1 mL of 70% ETOH.
+9. Let sit for 1 minute.
 10. Remove and dispose of ethanol without disturbing the beads on the magnet.
-11. Add 1 mL of 70% ETOH
-12. Let sit for 1 minute
+11. Add 1 mL of 70% ETOH.
+12. Let sit for 1 minute.
 13. Remove and dispose of ethanol without disturbing the beads on the magnet.
 14. Briefly centrifuge sample to collect residual ethanol.
 15. Remove and dispose of remaining ethanol without disturbing the beads on the magnet.
