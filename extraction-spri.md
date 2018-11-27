@@ -13,7 +13,7 @@
 3. Incubate samples at 55 &deg;C in shaker incubator set to 500 for 4-6 hours or overnight.
 
 #### 2) Isolation
-1. Allow bead solution to warm room temperature and mix by gently inverting the solution. Mix until beads are no longer sticking to the bottom of the tube. Before using beads, allow any bubbles that have been introduced by mixing to escape from the solution.
+1. Allow Speedbead solution to warm room temperature and mix by gently inverting the solution. Mix until beads are no longer sticking to the bottom of the tube. Before using beads, allow any bubbles that have been introduced by mixing to escape from the solution.
 2. Add 300 uL of bead solution to tube containing lysis product.
 3. Mix sample by flicking tube.
 4. Briefly centrifuge to collect sample in bottom of tube.
