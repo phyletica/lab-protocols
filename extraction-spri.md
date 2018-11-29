@@ -30,7 +30,7 @@
 15. Remove and dispose of remaining ethanol without disturbing the beads on the magnet.
 16. Add 100 &micro;L of TLE buffer and flick tube to mix beads into solution until they are no longer sticking to side of tube.
 17. Briefly centrifuge to collect solution in bottom of tube.
-18 Let stand for 1 minute.
+18. Let stand for 1 minute.
 19. Place on magnet stand for 5 minutes.
 20. Remove as much of solution as possible without disturbing beads and put into new labelled tube.
 
