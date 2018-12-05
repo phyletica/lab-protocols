@@ -26,12 +26,12 @@ Total: < ~$0.55 per sample
 [See post by Alexander Klenov on DIY phase separating tubes](https://bitesizebio.com/18944/diy-phase-separating-gel-clean-and-cheap/)
 
 ### Safety
-The following is a cursory set of guidelines to begin familiarizing you with phenol safety but should by no means be considered comprehensive or adequate before beginning work with phenol. Phenol can lethal if simple precautions are not taken and understood so please do not take this warning lightly!
+The following is a cursory set of guidelines to begin familiarizing you with phenol safety but should by no means be considered comprehensive or adequate before beginning work with phenol. Phenol can be lethal if simple precautions are not taken and understood so please do not take this warning lightly!
 - Use extreme caution when working with phenol which can quickly cause severe burns&mdash;possibly without any sensation of pain. It can be lethal due to poisoning at levels of skin exposure or inhalation that could potentially occur when using this protocol.
 - Always wear a lab coat, shoes, and safety glasses when working with phenol
 - Use ChemTek&reg; 38-214 Viton and Butyl gloves.
 - Perform the isolation steps involving phenol and chloroform within a fume hood at least six inches inside of the sash.
-- If contact with skin has occurred immediately remove any contaminated clothing and other worn items. Put on goggles if not already on unless this would risk eye exposure. Unless hands have been exposed put on ChemTek&reg; gloves if not already on. Irrigate exposed area with PEG-300 or wipe with gauze soaked in PEG-300. Irrigate with water only after the application of PEG-300 or if no PEG-300 is available. Water will only spread the phenol and potentially expand the area of exposure. Continue application of PEG-300 until there is no detectable odor of phenol.
+- If contact with skin has occurred immediately remove any contaminated clothing and other worn items. Put on goggles if not already on unless this would risk eye exposure. Unless hands have been exposed put on ChemTek&reg; gloves if not already on. Irrigate exposed area with PEG-300 or wipe with gauze soaked in PEG-300. Irrigate with water only after the application of PEG-300 or if no PEG-300 is available. Water will spread the phenol and potentially expand the area of exposure. Continue application of PEG-300 until there is no detectable odor of phenol.
 - If a spill is greater than 50 mL evacuate the laboratory, close the doors, and notify your fire department or environmental health and safety office.
 - Visit the following link for a more thorough coverage of phenol safety:    
 [Phenol Safety](https://sp.ehs.cornell.edu/lab-research-safety/documents/phenol_first_aid_and_ppe.pdf)
