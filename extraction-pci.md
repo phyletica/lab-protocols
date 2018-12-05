@@ -34,7 +34,7 @@ The following is a cursory set of guidelines to begin familiarizing you with phe
 - If contact with skin has occurred immediately remove any contaminated clothing and other worn items. Put on goggles if not already on unless this would risk eye exposure. Unless hands have been exposed put on ChemTek&reg; gloves if not already on. Irrigate exposed area with PEG-300 or wipe with gauze soaked in PEG-300. Irrigate with water only after the application of PEG-300 or if no PEG-300 is available. Water will only spread the phenol and potentially expand the area of exposure. Continue application of PEG-300 until there is no detectable odor of phenol.
 - If a spill is greater than 50 mL evacuate the laboratory, close the doors, and notify your fire department or environmental health and safety office.
 - Visit the following link for a more thorough coverage of phenol safety:    
-https://sp.ehs.cornell.edu/lab-research-safety/documents/phenol_first_aid_and_ppe.pdf
+[Phenol Safety](https://sp.ehs.cornell.edu/lab-research-safety/documents/phenol_first_aid_and_ppe.pdf)
 
 ### Disposal
 All phenol and chloroform contaminated waste must be put into hazardous waste.
