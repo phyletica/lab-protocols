@@ -10,7 +10,7 @@
 #### 1) Lysis
 1. Prepare lysis master mix containing 5 &micro;L of 20 mg/mL proteinase K and 295 &micro;L proteinase K buffer solution per sample plus a little extra to account for pipetting error.
 2. Add 300 &micro;L of lysis master mix to a 1.5 mL microcentrifuge tube containing up to 20 mg of sample tissue (approximately the size of a grain of rice).
-3. Incubate samples at 55 &deg;C in shaker incubator set to 500 for 4-6 hours or overnight.
+3. Incubate samples at 55 &deg;C in shaker incubator set to 400 for at least 4 hours or overnight.
 
 #### 2) Isolation
 1. Allow Speedbead solution to warm room temperature and mix by gently inverting the solution. Mix until beads are no longer sticking to the bottom of the tube. Before using beads, allow any bubbles that have been introduced by mixing to escape from the solution.
@@ -35,4 +35,4 @@
 20. Remove as much of solution as possible without disturbing beads and put into new labelled tube.
 
 #### Comments
-Might want to start warming TLE buffer prior to elution to increase yields.
+To increase yeild it may be beneficial to increase the time sample is allowed to sit at step 18. Warming the sample during this step may also help.
