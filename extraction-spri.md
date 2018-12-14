@@ -35,4 +35,4 @@
 20. Remove as much of solution as possible without disturbing beads and put into new labelled tube.
 
 #### Comments
-To increase yeild it may be beneficial to increase the time sample is allowed to sit at step 18. Warming the sample during this step may also help.
+To increase yield it may be beneficial to increase the time sample is allowed to sit at step 18. Warming the sample during this step may also help.
