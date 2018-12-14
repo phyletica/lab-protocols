@@ -10,7 +10,7 @@
 
 ### Cost
 Approximate per sample cost:
-- 2X 1000 &uL; Aerosol Tips: $0.18
+- 2X 1000 &micro;L Aerosol Tips: $0.18
 - 1.7 mL ETOH: $0.10
 - 5 &micro;L Proteinase K: $0.08
 - 200 &micro;L Phenol: $0.05
@@ -20,7 +20,7 @@ Approximate per sample cost:
 - 30 &micro;L 3 M Sodium acetate: $0.02
 - 0.25 mL Dow Corning&reg; high-vacuum silicone grease: $0.01
 
-Total: < ~$0.55 per sample
+Total: ~$0.55 per sample
 
 ### Sources
 [See post by Alexander Klenov on DIY phase separating tubes](https://bitesizebio.com/18944/diy-phase-separating-gel-clean-and-cheap/)
@@ -45,31 +45,31 @@ All phenol and chloroform contaminated waste must be put into hazardous waste.
 
 #### 2) Lysis
 1. Prepare lysis master mix containing 5 &micro;L of 20 mg/mL proteinase K and 295 &micro;L proteinase K buffer solution per sample plus a little extra to account for pipetting error.
-2. Add 300 &micro;L of lysis master mix to a 1.5 mL microcentrifuge tube containing up to 20 mg of sample tissue (approximately size of a grain of rice)
-3. Incubate samples at 55 &deg;C in shaker incubator set to 800 for 4-6 hours
+2. Add 300 &micro;L of lysis master mix to a 1.5 mL microcentrifuge tube containing up to 20 mg of sample tissue (approximately size of a grain of rice).
+3. Incubate samples at 55 &deg;C in shaker incubator set to 400 for at least 4 hours or overnight.
 
 #### 3) Isolation
-1. Centrifuge phase separating tubes at 16,100 RCF for 1 minute
-2. Add 300 &micro;L of lysis product to phase separating tube
+1. Centrifuge phase separating tubes at at least 15,000 RCF for 1 minute.
+2. Add 300 &micro;L of lysis product to phase separating tube.
 3. Add 200 &micro;L of Phenol to phase separating tube.
-4. Add 200 &micro;L of Chloroform:Isoamyl Alcohol to phase separating tube
-5. Mix samples by inverting tubes and shaking manually for 1 minute
-6. Centrifuge at 16,100 RCF for 5 minutes
-7. Add 400 &micro;L of Chloroform:Isoamyl Alcohol to the aqueous layer in the phase separating tube
-8. Mix samples by inverting tubes and shaking manually for 1 minute. Do not mix so vigorously as to disrupt the silicone grease layer dividing the aqueous and organic layers
-9. Centrifuge at 16,100 RCF for 5 minutes
+4. Add 200 &micro;L of Chloroform:Isoamyl Alcohol to phase separating tube.
+5. Mix samples by inverting tubes and shaking manually for 1 minute.
+6. Centrifuge at at least 15,000 RCF for 5 minutes.
+7. Add 400 &micro;L of Chloroform:Isoamyl Alcohol to the upper layer in the phase separating tube.
+8. Mix samples by inverting tubes and shaking manually for 1 minute. Do not mix so vigorously as to disrupt the silicone grease layer dividing the upper aqueous and lower organic layers.
+9. Centrifuge at at least 15,000 RCF for 5 minutes.
 
 
 #### 4) Precipitation
-1. Add 30 &micro;L of 3 M sodium acetate to a new 1.5 mL micro centrifuge tube
-2. Transfer 300 &micro;L of the top aqueous layer to the tube with sodium acetate. Avoid pipetting any of the silicon grease separating the phases
-3. Add 1 mL of 100% ethanol
-4. Incubate sample at room temperature for at least 15 minutes
-5. Centrifuge at 16,100 RCF for 30 minutes
-6. Decant supernatant
-7. Add 1 mL of 70% ethanol
-8. Centrifuge at 16,100 rcf for 15 minutes
-9. Decant supernatant
-10. Briefly spin tube to collect residual ethanol
-11. Pipette and discard remaining ethanol
-12. Dissolve pellet in TLE buffer solution
+1. Add 30 &micro;L of 3 M sodium acetate to a new 1.5 mL micro centrifuge tube.
+2. Transfer 300 &micro;L of the top aqueous layer to the tube with sodium acetate. Avoid pipetting any of the silicon grease separating the phases.
+3. Add 1 mL of 100% ethanol.
+4. Incubate sample at room temperature for at least 15 minutes.
+5. Centrifuge at at least 15,000 RCF for 30 minutes.
+6. Decant supernatant.
+7. Add 1 mL of 70% ethanol.
+8. Centrifuge at at least 15,000 RCF for 15 minutes.
+9. Decant supernatant.
+10. Briefly spin tube to collect residual ethanol.
+11. Pipette and discard remaining ethanol.
+12. Dissolve pellet in TLE buffer solution.
