@@ -6,6 +6,9 @@
 - [Speedbeads](https://baddna.uga.edu/Protocols/Speedbead_Protocol_June2016.docx)
 - 70% ETOH
 
+### Equipment
+- [Magnet Stand](https://www.shapeways.com/product/ZT777WRDC/new-and-improved-12-tube-mag-stand-v2?optionId=57997553)
+
 ### Procedure
 #### 1) Lysis
 1. Prepare lysis master mix containing 5 &micro;L of 20 mg/mL proteinase K and 295 &micro;L proteinase K buffer solution per sample plus a little extra to account for pipetting error.
