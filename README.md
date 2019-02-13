@@ -23,5 +23,6 @@ Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University
 - [SDS Solution](https://phyletica.github.io/lab-protocols/sds.html)
 - [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
 - [Tris-HCl Buffer Solution](https://phyletica.github.io/lab-protocols/tris-hcl.html)
+- [5M NaCl Solution](https://phyletica.github.io/lab-protocols/nacl.html)
 
 
