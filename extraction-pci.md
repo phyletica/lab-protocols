@@ -1,7 +1,7 @@
 # Phenol Chloroform DNA Extraction Protocol
 ### Reagents
 - Phenol solution, pH 8.0, Equilibrated (CAS 108-95-2)
-- Chloroform:Isoamyl Alcohol (24:1, v/v)
+- Chloroform:Isoamyl Alcohol (24:1, v:v)
 - Dow Corning&reg; high-vacuum silicone grease
 - Proteinase K 20mg/mL (CAS 39450-01-6)
 - [Proteinase K Buffer Solution](https://phyletica.github.io/lab-protocols/pro-k.html)
