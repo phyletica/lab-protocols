@@ -16,7 +16,7 @@
 3. Incubate samples at 55 &deg;C in shaker incubator set to 400 for at least 4 hours or overnight.
 
 #### 2) Isolation
-1. Allow Speedbead solution to warm room temperature and mix by gently inverting the solution. Mix until beads are no longer sticking to the bottom of the tube. Before using beads, allow any bubbles that have been introduced by mixing to escape from the solution.
+1. Allow Speedbead solution to warm to room temperature and mix by gently inverting the solution. Mix until beads are no longer sticking to the bottom of the tube. Before using beads, allow any bubbles that have been introduced by mixing to escape from the solution.
 2. Add 300 uL of bead solution to tube containing lysis product.
 3. Mix sample by flicking tube.
 4. Briefly centrifuge to collect sample in bottom of tube.
@@ -29,7 +29,7 @@
 11. Add 1 mL of 70% ETOH.
 12. Let sit for 1 minute.
 13. Remove and dispose of ethanol without disturbing the beads on the magnet.
-14. Briefly centrifuge sample to collect residual ethanol.
+14. Briefly centrifuge sample at low speed to collect residual ethanol and return to magnet. Beads should remain in place on side of tube. 
 15. Remove and dispose of remaining ethanol without disturbing the beads on the magnet.
 16. Add 100 &micro;L of TLE buffer and flick tube to mix beads into solution until they are no longer sticking to side of tube.
 17. Briefly centrifuge to collect solution in bottom of tube.
