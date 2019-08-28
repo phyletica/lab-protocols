@@ -9,8 +9,9 @@ Protocols used in the [Phyletica](http://phyletica.org) lab at Auburn University
 - [KAPA HiFi PCR](https://phyletica.github.io/lab-protocols/pcr-kapa.html)
 
 #### RADSeq
+- [2RAD Protocol](https://phyletica.github.io/lab-protocols/3RAD-protocol.html)
 - [3RAD Protocol](https://phyletica.github.io/lab-protocols/3RAD-protocol.html)
-- [3RAD Adapters](https://phyletica.github.io/lab-protocols/adapter-seq.html)
+- [Adapters](https://phyletica.github.io/lab-protocols/adapter-seq.html)
 
 #### Other
 - [Gel Electrophoresis Protocol](https://phyletica.github.io/lab-protocols/gel-electrophoresis.html)
