@@ -67,9 +67,8 @@ In 20 &micro;L:
         - 37 &deg;C for 10:00
     - 80 &deg;C for 20:00
 
-
 ### 2. Bead Cleanup
-1. Pool 5 &micro;L of each sample
+1. Pool 5 &micro;L of each sample into a single 1.5 mL tube. 
 2. Mix pooled sample with 1X Speedbeads and briefly vortex.
 3. Allow sample to sit for 1 minute.
 4. Place sample on magnet stand until solution is completely clear and magnets have been drawn to the side of the tube.
