@@ -44,3 +44,25 @@ Cuts dimers formed by XbaI adapters
 Cuts dimers formed by MspI adapters   
 5' A/T C G A T 3'   
 3' T A G C T/A 5'   
+
+### Illumina TrueSeq HT Dual Index Adapter Sequence
+#### Read 1
+##### Full Adapter Sequence
+5' GATCGGAAGAGCACACGTCTGAACTCCAGTCAC[i7]ATCTCGTATGCCGTCTTCTGCTTG 3'
+##### Adapter Trimming Sequence
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+
+#### Read 2
+##### Full Adapter Sequence
+5' AATGATACGGCGACCACCGAGATCTACAC[i5]ACACTCTTTCCCTACACGACGCTCTTCCGATCT 3'
+##### Adapter Trimming Sequence
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+#### Adapter Length
+##### Read 1
+62 + 8 = 70 bp
+##### Read 2
+57 + 8 = 65 bp
+##### Total
+70 + 65 = 135 bp
+
