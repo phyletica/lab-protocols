@@ -3,17 +3,11 @@
 ### iTru5-8N Primer
 5' AAT GAT ACG GCG ACC ACC GAG ATC TAC AC (N:25 25 25 25)(N)(N)(N)(N)(N)(N)(N) ACA CTC TTT CCC TA*C 3'
 
-### P5 Primer (Read1)
-5' AAT GAT ACG GCG ACC ACC GAG AT 3'
-
-### P7 Primer (Read2)
+### Read 1 P7 Primr
 5' CAA GCA GAA GAC GGC ATA CGA GA 3'
 
-<!-- # Read 1 Adapter Seq
-5' AAT GAT ACG GCG ACC ACC GAG ATC TAC AC 3'
-
-# Read 2 Adapter Seq
-5' ATC TCG TAT GCC GTC TTC TGC TTG 3' -->
+### Read 2 P5 Primer
+5' AAT GAT ACG GCG ACC ACC GAG AT 3'
 
 #### Read 1 restriction enzymes
 ##### XbaI
