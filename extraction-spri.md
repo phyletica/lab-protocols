@@ -8,6 +8,7 @@
 
 ### Equipment
 - [Magnet Stand](https://www.shapeways.com/product/ZT777WRDC/new-and-improved-12-tube-mag-stand-v2?optionId=57997553)
+- [Adjustable tip spacing multichannel pipette](https://www.shoprainin.com/Products/Pipettes-and-Tips/Pipettes/Adjustable-Spacer-Manual-Pipettes/Pipet-Lite-XLS/Pipet-Lite-Adjustable-Spacer-LA6-1200XLS/p/17011840)
 
 ### Procedure
 #### 1) Lysis
