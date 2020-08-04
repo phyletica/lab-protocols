@@ -27,15 +27,7 @@ Note that GelGreen&reg; is mutagenic so it is important to use gloves when makin
 - One small gel will require 50 mL of Agarose Gel
 - One large gel will require 150 mL of Agarose Gel
 
-1. Refer to the table below and add the appropriate number of grams of Agarose and milliliters of 1X SB Buffer to a flask.
-
-| DNA Size Resolution   | Percent Agarose Gel (w/v) | Grams Per 100 mL 1X SB Buffer|
-| --------------------- | ------------------------- | ---------------------------- |
-| 1 kb &ndash; 30 kb   | 0.5%                      | 0.5 grams                    |
-| 500 bp &ndash; 10 kb | 1.0%                      | 1.0 grams                    |
-| 50 bp &ndash; 2 kb   | 2.0%                      | 2.0 grams                    |
-
-
+1. Refer to the table at the end of this section and add the appropriate number of grams of Agarose and milliliters of 1X SB Buffer to a flask.
 2. Place solution into the microwave until it begins boiling and then immediately turn off the microwave. Avoid allowing the solution to boil over!
 3. Remove from the microwave and swirl solution to mix thoroughly. If solution has many bubbles suspended in it, place it back into the microwave very briefly until boiling again. Repeat until solution no longer has a large number of bubbles.
 4. Add 0.5 &micro;L GelGreen&reg; per 100 mL and swirl solution in flask to mix.
@@ -44,11 +36,16 @@ Note that GelGreen&reg; is mutagenic so it is important to use gloves when makin
 7. Put combs in place on the gel rig.
 8. Allow gel to harden for at least 30 minutes.
 
+| DNA Size Resolution   | Percent Agarose Gel (w/v) | Grams Per 100 mL 1X SB Buffer|
+| --------------------- | ------------------------- | ---------------------------- |
+| 1 kb &ndash; 30 kb   | 0.5%                      | 0.5 grams                    |
+| 500 bp &ndash; 10 kb | 1.0%                      | 1.0 grams                    |
+| 50 bp &ndash; 2 kb   | 2.0%                      | 2.0 grams                    |
 
 ### Run DNA On Gel
 1. Place gel into electrophoresis chamber.
 2. Fill chamber with enough 1X SB buffer to cover the top of the gel.
-3. Prepare samples by mixing 1&micro;L of sample with 5&micro;L
+3. Prepare samples by mixing 1&micro;L of sample with 5&micro;L of 1X loading dye solution.
 4. Load samples into gel. Samples should have at least 20 pg of DNA.
 3. Add 1 &micro;L of ladder per mm of well width.
 5. Run gel at ~16V per cm of gel length until dye has reached the edge of the gel
