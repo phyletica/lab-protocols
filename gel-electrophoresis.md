@@ -1,6 +1,5 @@
 # Gel Electrophoresis Protocol
 
-
 ### DNA Ladder Solution
 ##### Reagents
 - 6X DNA Loading Dye
@@ -19,7 +18,7 @@ Note that GelRed&reg; is mutagenic so it is important to use gloves when making 
 ##### Reagents
 - Agarose (CAS 9012-36-6)
 - 1X SB Buffer Solution
-- 10,000X GelRed&reg;
+- 100X GelRed&reg Solution;
 
 <div style="page-break-after: always;"></div>
 
@@ -30,7 +29,7 @@ Note that GelRed&reg; is mutagenic so it is important to use gloves when making 
 1. Refer to the table at the end of this section and add the appropriate number of grams of Agarose and milliliters of 1X SB Buffer to a flask.
 2. Place solution into the microwave until it begins boiling and then immediately turn off the microwave. Avoid allowing the solution to boil over!
 3. Remove from the microwave and swirl solution to mix thoroughly. If solution has many bubbles suspended in it, place it back into the microwave very briefly until boiling again. Repeat until solution no longer has a large number of bubbles.
-4. Add 0.5 &micro;L GelRed&reg; per 100 mL and swirl solution in flask to mix.
+4. Add 1 &micro;L of 100X GelRed&reg; solution per 100 mL and swirl solution in flask to mix.
 5. Allow solution to cool to the point that you can hold your hand against the side for several seconds. This is to avoid warping the gel casting rig from high heat.
 6. Pour solution into gel rig to a depth of 3-4 mm.
 7. *Put combs in place on the gel rig.*
