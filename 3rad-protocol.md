@@ -29,7 +29,7 @@ In 15 &micro;L:
 | Enzyme 3 20 U/&micro;L        | 0.5 &micro;L  | 58 &micro;L    |
 | Total volume                  | 6 &micro;L    | 696 &micro;L   |
 
-If using only two enzymes add 0.5 &micro;L more of water per sample.
+If not using third enzymes add 0.5 &micro;L more of water per sample.
 
 1. Pipette 5 &micro;L of DNA at a concentrations of 4-20 ng/&micro;L onto a 96 well plate.
 2. Prepare enzyme digestion master mix.
@@ -75,18 +75,17 @@ In 20 &micro;L:
 
 
 ### 2. Bead Cleanup
-1. Pool 5 &micro;L of each sample
+1. Pool 5 &micro;L of each sample into a single 1.5 mL tube.
 2. Mix pooled sample with 1X [Speedbeads](https://baddna.uga.edu/Protocols/Speedbead_Protocol_June2016.docx) and briefly vortex.
 3. Allow sample to sit for 1 minute.
 4. Place sample on magnet stand until solution is completely clear and magnets have been drawn to the side of the tube.
 5. Carefully pipette solution from tube and discard.
-6. Wash sample twice with 500 &micro;L of 70% ETOH
+6. Wash sample twice with 500 &micro;L of 70% ETOH:
     1. Add 500 &micro;L of 70% ETOH to tube and let sit for 1 minute.
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in initial volume of [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
-- Note: Maybe suspend this in smaller volume?
+7. Re-suspend in 25 &micro;L of [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html).
 
 
 ### 3. One Cycle PCR With iTru5-8N Primer
@@ -104,18 +103,18 @@ In 50 &micro;L:
 
 ##### Procedure
 
-| PCR Master Mix             | 1X            | 6.5X            |
+| PCR Master Mix             | 1X            | 5X              |
 | -------------------------- | ------------- | --------------- |
-| H<sub>2</sub>O             | 29.5 &micro;L | 191.75 &micro;L |
-| 5X Kapa HiFi Buffer        | 10 &micro;L   | 65 &micro;L     |
-| 5 &micro;M iTru5-8N Primer | 3 &micro;L    | 19.5 &micro;L   |
-| 10mM dNTP                  | 1.5 &micro;L  | 9.75 &micro;L   |
-| KAPA Hifi Polymerase       | 1.0 &micro;L  | 6.5 &micro;L    |
-| Total volume               | 45 &micro;L   | 292.5           |
+| H<sub>2</sub>O             | 29.5 &micro;L | 147.5 &micro;L  |
+| 5X Kapa HiFi Buffer        | 10 &micro;L   | 50 &micro;L     |
+| 5 &micro;M iTru5-8N Primer | 3 &micro;L    | 15 &micro;L     |
+| 10mM dNTP                  | 1.5 &micro;L  | 7.5 &micro;L    |
+| KAPA Hifi Polymerase       | 1.0 &micro;L  | 5 &micro;L      |
+| Total volume               | 45 &micro;L   | 225 &micro;L    |
 
 1. Prepare PCR master mix.
-2. Add 45 &micro;L master mix to six 0.2 mL PCR tubes
-3. Add 5 &micro;L pooled DNA to each of the six PCR tubes
+2. Add 45 &micro;L master mix to 4 0.2 mL PCR tubes
+3. Add 5 &micro;L pooled DNA to each PCR tubes
 4. Incubate samples at:
     - 98 &deg;C for 2:00
     - 60 &deg;C for 0:30
@@ -123,17 +122,18 @@ In 50 &micro;L:
 
 
 ### 4. Bead Cleanup
-1. Pool iTru5-8N PCR product
-2. Mix pooled sample with 2X Speedbeads and briefly vortex.
+1. Pool iTru5-8N PCR product into single 1.5 mL tube.
+2. Mix pooled sample with 1.5X Speedbeads and briefly vortex.
 3. Allow sample to sit for 1 minute.
 4. Place sample on magnet stand until solution is completely clear and magnets have been drawn to the side of the tube.
 5. Carefully pipette solution from tube and discard.
-6. Wash sample twice with 500 &micro;L of 70% ETOH
+6. Wash sample twice with 500 &micro;L of 70% ETOH:
     1. Add 500 &micro;L of 70% ETOH to tube and let sit for 1 minute.
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
+7. Re-suspend in 25 &micro;L [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html).
+
 
 ### 5. Two Primer Amplification With P5 & iTru7 Primers
 ##### Reagents
@@ -152,15 +152,15 @@ In 50 &micro;L:
 
 ##### Procedure
 
-| PCR Master Mix             | 1X            | 6.5X            |
+| PCR Master Mix             | 1X            | 5X              |
 | -------------------------- | ------------- | --------------- |
-| H<sub>2</sub>O             | 26.5 &micro;L | 172.25 &micro;L |
-| 5X Kapa HiFi Buffer        | 10 &micro;L   | 65 &micro;L     |
-| 5 &micro;M iTru7 Primer    | 3 &micro;L    | 19.5 &micro;L   |
-| 5 &micro;M P5 Primer       | 3 &micro;L    | 19.5 &micro;L   |
-| 10mM dNTP                  | 1.5 &micro;L  | 9.75 &micro;L   |
-| KAPA Hifi Polymerase       | 1.0 &micro;L  | 6.5 &micro;L    |
-| Total volume               | 45 &micro;L   | 292.5           |
+| H<sub>2</sub>O             | 26.5 &micro;L | 132.5 &micro;L  |
+| 5X Kapa HiFi Buffer        | 10 &micro;L   | 50 &micro;L     |
+| 5 &micro;M iTru7 Primer    | 3 &micro;L    | 15 &micro;L     |
+| 5 &micro;M P5 Primer       | 3 &micro;L    | 15 &micro;L     |
+| 10mM dNTP                  | 1.5 &micro;L  | 7.5 &micro;L    |
+| KAPA Hifi Polymerase       | 1.0 &micro;L  | 5 &micro;L      |
+| Total volume               | 45 &micro;L   | 225 &micro;L    |
 
 1. Prepare PCR master mix.
 2. Add 45 &micro;L master mix to six 0.2 mL PCR tubes
@@ -175,22 +175,24 @@ In 50 &micro;L:
 
 
 ### 6. Bead Cleanup
-1. Pool P5-iTru7 PCR products into single tube
+1. Pool P5-iTru7 PCR products into single 1.5 mL tube.
 2. Mix pooled sample with 2X Speedbeads and briefly vortex.
 3. Allow sample to sit for 1 minute.
 4. Place sample on magnet stand until solution is completely clear and magnets have been drawn to the side of the tube.
 5. Carefully pipette solution from tube and discard.
-6. Wash sample twice with 500 &micro;L of 70% ETOH
+6. Wash sample twice with 500 &micro;L of 70% ETOH:
     1. Add 500 &micro;L of 70% ETOH to tube and let sit for 1 minute.
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
+7. Re-suspend in 35 &micro;L [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html).
+
 
 ### 7. Size Selection
 ##### Procedure
-Size select DNA with BluePippin
+Size select DNA with BluePippin.
 <!-- 1. Add 10 &micro;L internal size standard to 30 &micro;L of sample -->
+
 
 ### 8. Final Amplification with P5 and P7 Primers
 ##### Reagents
@@ -205,23 +207,23 @@ In 50 &micro;L:
 - 0.3 &micro;M P5 Primer
 - 0.3 &micro;M P7 Primer
 - 0.3 mM each dNTP
-- 1 U of KAPA HiFi Hotstart DNA Polymerase
+- 1 U of KAPA HiFi DNA Polymerase
 
 ##### Procedure
 
-| PCR Master Mix             | 1X            | 6.5X            |
+| PCR Master Mix             | 1X            | 5X              |
 | -------------------------- | ------------- | --------------- |
-| H<sub>2</sub>O             | 26.5 &micro;L | 172.25 &micro;L |
-| 5X Kapa HiFi Buffer        | 10 &micro;L   | 65 &micro;L     |
-| 5 &micro;M P5 Primer       | 3 &micro;L    | 19.5 &micro;L   |
-| 5 &micro;M P7 Primer       | 3 &micro;L    | 19.5 &micro;L   |
-| 10mM dNTP                  | 1.5 &micro;L  | 9.75 &micro;L   |
-| KAPA Hifi Polymerase       | 1.0 &micro;L  | 6.5 &micro;L    |
-| Total volume               | 45 &micro;L   | 292.5           |
+| H<sub>2</sub>O             | 26.5 &micro;L | 132.5 &micro;L  |
+| 5X Kapa HiFi Buffer        | 10 &micro;L   | 50 &micro;L     |
+| 5 &micro;M P5 Primer       | 3 &micro;L    | 15 &micro;L     |
+| 5 &micro;M P7 Primer       | 3 &micro;L    | 15 &micro;L   |
+| 10mM dNTP                  | 1.5 &micro;L  | 7.5 &micro;L    |
+| KAPA Hifi Polymerase       | 1.0 &micro;L  | 5 &micro;L      |
+| Total volume               | 45 &micro;L   | 225 &micro;L    |
 
 1. Prepare PCR master mix.
-2. Add 45 &micro;L master mix to six 0.2 mL PCR tubes
-3. Add 5 &micro;L pooled DNA to each of the six PCR tubes
+2. Add 45 &micro;L master mix to six 0.2 mL PCR tubes.
+3. Add 5 &micro;L pooled DNA to each of the six PCR tubes.
 4. Incubate samples at:
     - 95 &deg;C for 3:00
     - 12 cycles of:
@@ -232,17 +234,17 @@ In 50 &micro;L:
 
 
 ### 9. Bead Cleanup
-1. Pool P5-P7 PCR products into single tube
+1. Pool P5-P7 PCR products into single tube.
 2. Mix pooled sample with 1X Speedbeads and briefly vortex.
 3. Allow sample to sit for 1 minute.
 4. Place sample on magnet stand until solution is completely clear and magnets have been drawn to the side of the tube.
 5. Carefully remove pipette solution from tube.
-6. Wash sample twice with 500 &micro;L of 70% ETOH
+6. Wash sample twice with 500 &micro;L of 70% ETOH:
     1. Add 500 &micro;L of 70% ETOH to tube and let sit for 1 minute.
     2. Carefully pipette ETOH from tube.
     3. Repeat once.
     4. Use toothpick to remove remaining drops of ETOH and let stand until no ETOH remains.
-7. Re-suspend in 35 &micro;L 10mM [Tris-HCl Buffer Solution](https://phyletica.github.io/lab-protocols/tris-hcl.html)
+7. Re-suspend in 25 &micro;L 10mM [Tris-HCl Buffer Solution](https://phyletica.github.io/lab-protocols/tris-hcl.html).
 
 <!-- ### 10. Sample Submission
 Sample Submission to UGA sequencing facility

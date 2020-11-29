@@ -28,7 +28,6 @@
 3' C C T A G/G 5'   
 
 #### Adapter dimer restriction enzymes
-### Restriction Enzymes
 ##### NheI
 Cuts dimers formed by XbaI adapters   
 5' G/C T A G C 3'   
