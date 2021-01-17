@@ -1,7 +1,7 @@
 # Proteinase K Buffer Solution
 
 ### Reagents
-- [5 M NaCl Solution](https://phyletica.github.io/lab-protocols/nacl.html)
+<!--- - [5 M NaCl Solution](https://phyletica.github.io/lab-protocols/nacl.html) -->
 - [1 M Tris-HCl Buffer Solution, pH 8.0](https://phyletica.github.io/lab-protocols/tris-hcl.html)
 - [0.5 M EDTA Solution, pH 8.0](https://phyletica.github.io/lab-protocols/edta.html)
 - [10% (m/v) SDS Solution](https://phyletica.github.io/lab-protocols/sds.html)
