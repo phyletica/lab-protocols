@@ -13,7 +13,7 @@
 
 ### Procedure
 Per 100mL
-1 Add 1 mL 1 M Tris-Cl solution
-2 Add 2 mL 0.5M EDTA solution
-3 Add 10 mL 10% (m/v) SDS solution
-4 Bring volume to 100 mL with 87 mL of pure nuclease free water
+1. Add 1 mL 1 M Tris-Cl solution
+2. Add 2 mL 0.5M EDTA solution
+3. Add 10 mL 10% (m/v) SDS solution
+4. Bring volume to 100 mL with 87 mL of pure nuclease free water
